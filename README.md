@@ -1,12 +1,5 @@
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bank Account Management System (BAMS) - README</title>
-</head>
-<body>
+
     <h1><strong>Bank Account Management System (BAMS)</strong></h1>
 
     <h2><strong>Introduction</strong></h2>
@@ -89,5 +82,3 @@
         <li><strong>Scalable Design:</strong> Modular architecture allows for easy updates and expansion.</li>
         <li><strong>Global Accessibility:</strong> Perform banking transactions from anywhere, anytime.</li>
     </ul>
-</body>
-</html>
